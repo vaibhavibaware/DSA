@@ -25,6 +25,8 @@ import java.util.*;
  * <p>Solution Do a linear check for each of the words and each of the characters and sum up the
  * lengths. Keep a hashmap of key-values to avoid picking the same character again.
  */
+
+Solution:
 public class FindWordsThatCanBeFormedbyCharacters {
   public static void main(String[] args) {
     String[] A = {"cat", "bt", "hat", "problems/src/tree"};
