@@ -1,5 +1,4 @@
 
-package string;
 
 import java.util.StringTokenizer;
 
