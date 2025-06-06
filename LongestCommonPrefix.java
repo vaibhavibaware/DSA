@@ -6,6 +6,8 @@ Question:
  * <p>Solution: O(N x M) where N is the length of the given array and M is the max_length of a
  * string.
  */
+
+Solution:
 public class LongestCommonPrefix {
   /**
    * Main method
@@ -16,6 +18,8 @@ public class LongestCommonPrefix {
     String[] A = {"abc", "a", "adkd"};
     System.out.println(new LongestCommonPrefix().longestCommonPrefix(A));
   }
+
+  
 
   public String longestCommonPrefix(String[] strs) {
     if (strs.length == 0) return "";
