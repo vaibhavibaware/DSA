@@ -1,3 +1,4 @@
+Question
 /**
  * Implement strStr().
  *
@@ -6,6 +7,7 @@
  *
  * <p>Solution O(N ^ 2)
  */
+Solution:
 public class ImplementStrStr {
   public static void main(String[] args) throws Exception {
     System.out.println(new ImplementStrStr().strStr("AABB", ""));
