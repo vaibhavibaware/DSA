@@ -18,6 +18,8 @@ Question:
  * and then lexicographically and compare each sorted word with given word and do a two pointer
  * comparison to check for sub-sequence.
  */
+
+Solution:
 public class LongestWordInDictonary {
 
   /**
