@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 import java.util.Map;
-
+Question:
 /**
  *Given two strings s and t, determine if they are
  * isomorphic.
@@ -21,6 +21,7 @@ import java.util.Map;
  * <p>Note: You may assume both s and t have the same length. Solution O(N): Maintain two hashmaps
  * and compare character by character.
  */
+Solution:
 public class IsomorphicStrings {
   /**
    * Main method
