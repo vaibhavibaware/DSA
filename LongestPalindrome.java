@@ -16,6 +16,8 @@ Question:
  *
  * <p>Explanation: One longest palindrome that can be built is "dccaccd", whose length is 7.
  */
+
+Solution:
 import java.util.*;
 
 public class LongestPalindrome {
