@@ -1,3 +1,4 @@
+Question:
 /**
  * Given a string, find the first non-repeating
  * character in it and return it's index. If it doesn't exist, return -1.
@@ -8,6 +9,8 @@
  *
  * <p>s = "loveleetcode", return 2. Note: You may assume the string contain only lowercase letters.
  */
+
+Solution:
 public class FirstUniqueCharacterInAString {
   int[] CHAR = new int[256];
 
