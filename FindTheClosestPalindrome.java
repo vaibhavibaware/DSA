@@ -1,5 +1,3 @@
-package string;
-
 /**
  *Given an integer n, find the closest integer (not
  * including itself), which is a palindrome.
