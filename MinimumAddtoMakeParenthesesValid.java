@@ -1,4 +1,3 @@
-package string;
 Question:
 /**
  * Given a string S of '(' and ')' parentheses, we add
