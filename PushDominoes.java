@@ -34,6 +34,9 @@ package string;
  *
  * <p>0 <= N <= 10^5 String dominoes contains only 'L', 'R' and '.' Solution: O(N)
  */
+
+
+Solution:
 public class PushDominoes {
   public static void main(String[] args) {
     System.out.println(new PushDominoes().pushDominoes("RR.L"));
