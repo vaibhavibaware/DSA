@@ -6,7 +6,7 @@ package string;
  * <p>Given two strings S and T, determine if they are both one edit distance apart.
  */
 
-  Solution:
+Solution:
 public class OneEditDistance {
 
   /**
