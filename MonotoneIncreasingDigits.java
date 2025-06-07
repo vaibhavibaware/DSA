@@ -1,6 +1,6 @@
 
 package string;
-
+Question:  
 /**
  * Given a non-negative integer N, find the largest
  * number that is less than or equal to N with monotone increasing digits.
@@ -16,6 +16,7 @@ package string;
  * latest index where the violation occurs and append '9' to rest of the trailing digits. Convert
  * the string to integer before returning.
  */
+Solution:
 public class MonotoneIncreasingDigits {
   /**
    * Main method
