@@ -8,6 +8,7 @@ package string;
  * <p>Solution: O(N x M) where N is the length of the given array and M is the max_length of a
  * string.
  */
+
 Solution:
 public class LongestCommonPrefix {
   /**
