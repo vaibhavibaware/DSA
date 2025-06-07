@@ -16,6 +16,7 @@ public class FirstUniqueCharacterInAString {
 
   /**
    * Main method
+   
    *
    * @param args
    * @throws Exception
