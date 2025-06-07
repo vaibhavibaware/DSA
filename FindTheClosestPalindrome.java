@@ -11,6 +11,8 @@
  * by reversing the first half of string. Concatenate the first_half and the new_string and return
  * this as an answer. There are also a lot of edge cases to be considered using this approach.
  */
+Solution:
+
 public class FindTheClosestPalindrome {
   public static void main(String[] args) throws Exception {
     System.out.println(new FindTheClosestPalindrome().nearestPalindromic("1837722381"));
