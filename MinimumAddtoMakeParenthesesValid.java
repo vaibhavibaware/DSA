@@ -10,6 +10,7 @@ Question:
  * valid strings, or It can be written as (A), where A is a valid string. Given a parentheses
  * string, return the minimum number of parentheses we must add to make the resulting string valid.
  *
+ Explanation:
  * <p>Example 1:
  *
  * <p>Input: "())" Output: 1 Example 2:
