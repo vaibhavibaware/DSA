@@ -21,6 +21,7 @@ Question:
  * <p>Note: You may assume both s and t have the same length. Solution O(N): Maintain two hashmaps
  * and compare character by character.
  */
+
 Solution:
 public class IsomorphicStrings {
   /**
