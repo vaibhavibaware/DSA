@@ -1,6 +1,6 @@
 
 package string;
-
+Question:
 /**
  * Given a string S of '(' and ')' parentheses, we add
  * the minimum number of parentheses ( '(' or ')', and in any positions ) so that the resulting
@@ -32,6 +32,8 @@ package string;
  * parentheses and hence add one to the result. The final answer is the total of result + open
  * parentheses
  */
+Solution:
+
 public class MinimumAddtoMakeParenthesesValid {
   public static void main(String[] args) {
     System.out.println(new MinimumAddtoMakeParenthesesValid().minAddToMakeValid("()))(("));
