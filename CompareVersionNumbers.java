@@ -14,6 +14,7 @@ import java.util.StringTokenizer;
  * <p>0.1 < 1.1 < 1.2 < 13.37
  */
 Solution:
+
 public class CompareVersionNumbers {
   /**
    * Main method
