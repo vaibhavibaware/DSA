@@ -32,12 +32,10 @@ Question:
  * parentheses
  */
 Solution:
-
 public class MinimumAddtoMakeParenthesesValid {
   public static void main(String[] args) {
     System.out.println(new MinimumAddtoMakeParenthesesValid().minAddToMakeValid("()))(("));
   }
-
   public int minAddToMakeValid(String S) {
     int result = 0;
     int open = 0;
