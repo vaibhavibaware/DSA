@@ -15,6 +15,7 @@ Question:
  *
  * <p>Input: 4 Output: "1211"
  */
+
 Solution:
 public class CountAndSay {
 
