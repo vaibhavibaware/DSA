@@ -1,5 +1,5 @@
 package string;
-
+Question:
 /**
  * Given two non-negative integers num1 and num2
  * represented as strings, return the product of num1 and num2.
@@ -12,6 +12,7 @@ package string;
  *
  * <p>Solution: O(N x M) where N and M are length of strings
  */
+  Solution:
 public class MultiplyStrings {
 
   /**
