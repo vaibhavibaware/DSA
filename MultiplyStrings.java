@@ -1,4 +1,3 @@
-package string;
 Question:
 /**
  * Given two non-negative integers num1 and num2
