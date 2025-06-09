@@ -1,5 +1,3 @@
-
-package string;
 Question:  
 /**
  * Given a non-negative integer N, find the largest
