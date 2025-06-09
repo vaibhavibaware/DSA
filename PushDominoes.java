@@ -1,5 +1,3 @@
-package string;
-
 /**
  *There are N dominoes in a line, and we place each
  * domino vertically upright.
