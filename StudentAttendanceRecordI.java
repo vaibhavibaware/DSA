@@ -7,6 +7,7 @@
  * than one 'A' (absent) or more than two continuous 'L' (late).
  *
  * <p>You need to return whether the student could be rewarded according to his attendance record.
+ 
  * EXplanation:
  * <p>Example 1: Input: "PPALLP" Output: True Example 2: Input: "PPALLL" Output: False
  *
