@@ -1,4 +1,5 @@
 //Question:
+
 /**
  * You are given a string representing an attendance 
  * record for a student. The record only contains the following three characters: 'A' : Absent. 'L'
@@ -6,11 +7,12 @@
  * than one 'A' (absent) or more than two continuous 'L' (late).
  *
  * <p>You need to return whether the student could be rewarded according to his attendance record.
- *
+ * EXplanation:
  * <p>Example 1: Input: "PPALLP" Output: True Example 2: Input: "PPALLL" Output: False
  *
  * <p>Solution O(N) Simple linear check
  */
+
 // Solution:
 public class StudentAttendanceRecordI {
   public static void main(String[] args) {}
