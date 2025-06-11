@@ -7,7 +7,7 @@
 
 Solution:
 public class AddBinary {
-
+ 
   /**
    * Main method
    *
