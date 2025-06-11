@@ -1,5 +1,4 @@
 Question:  
-
 /**
  * Given a non-negative integer N, find the largest
  * number that is less than or equal to N with monotone increasing digits.
