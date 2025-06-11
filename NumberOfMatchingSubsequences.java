@@ -1,3 +1,4 @@
+Question:
 /**
  *Given string S and a dictionary of words words, find
  * the number of words[i] that is a subsequence of S.
@@ -9,8 +10,7 @@
  * the range of [1, 50000]. The length of words will be in the range of [1, 5000]. The length of
  * words[i] will be in the range of [1, 50].
  */
-
-  Solution:
+Solution:
 public class NumberOfMatchingSubsequences {
 
   /**
