@@ -1,4 +1,4 @@
-AddToArrayFormOfInteger.java
+//AddToArrayFormOfInteger.java
 package array;
 import java.math.BigInteger;
 import java.util.*;
@@ -29,7 +29,7 @@ import java.util.*;
  */
 public class AddToArrayFormOfInteger {
   public static void main(String[] args) {
-    //
+    //write main block here
   }
 
   public List<Integer> addToArrayForm(int[] A, int K) {
