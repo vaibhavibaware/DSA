@@ -16,10 +16,7 @@ package array;
  */
 public class CanPlaceFlowers {
   /**
-   * Main method
-   *
-   * @param args
-   * @throws Exception
+   * Main method write here 
    */
   public static void main(String[] args) throws Exception {
     int[] n = {1, 0, 0, 0, 1};
