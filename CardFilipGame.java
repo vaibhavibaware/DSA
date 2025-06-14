@@ -33,8 +33,7 @@ import java.util.List;
  * <p>1 <= fronts.length == backs.length <= 1000. 1 <= fronts[i] <= 2000. 1 <= backs[i] <= 2000.
  */
 public class CardFilipGame {
-
-  public static void main(String[] args) {}
+  public static void main(String[] args) { write main block here}
 
   public int flipgame(int[] fronts, int[] backs) {
     List<Integer> numbers = new ArrayList<>();
