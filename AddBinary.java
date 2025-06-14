@@ -23,13 +23,6 @@ public class AddBinary {
     } else return calculate(b, a);
   }
 
-  /**
-   * Calculate sum
-   *
-   * @param a length of a should always be greater or equal to b
-   * @param b length of b should always be smaller of equal to a
-   * @return
-   */
   private String calculate(String a, String b) {
     int carry = 0;
     int d = a.length() - b.length();
