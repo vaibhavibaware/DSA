@@ -1,5 +1,4 @@
 package array;
-
 import java.util.*;
 /**
  * A zero-indexed array A of length N contains all
