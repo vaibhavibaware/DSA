@@ -2,7 +2,6 @@
 package array;
 import java.math.BigInteger;
 import java.util.*;
-
 /**
  *
  * <p>For a non-negative integer X, the array-form of X is an array of its digits in left to right
